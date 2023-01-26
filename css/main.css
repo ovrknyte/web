@@ -1,0 +1,93 @@
+html{
+	overflow-y: hidden;
+	height: 100vh;
+	background:ghostwhite;
+	/*put back up url("..") no-repeat center center fixed; */
+	/* -webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover; */
+	
+}
+
+body{
+  	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.navigation{
+	margin: auto;
+  	width: 50%;
+  	padding: 10px;
+}
+
+img{
+	margin: auto;
+	width: 50%;
+	padding: 10px;
+}
+
+
+/* @media (max-device-width: 768px) {
+	html {
+	    background: url("") no-repeat center center fixed;
+	    -webkit-background-size: cover;
+	    -moz-background-size: cover;
+	    -o-background-size: cover;
+	    background-size: cover;
+	    height: 100%;
+	    overflow: hidden;
+	}
+} */
+
+/* @media (max-device-width: 768px) {
+	html{
+		background: #111d12 url("../images/hs2.png") no-repeat center center fixed;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+	 }
+}
+*/
+
+/*Link Behavior*/
+a:link {
+	text-decoration: none;
+	color: black;
+}
+
+a:visited {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: none;
+	color: magenta;
+}
+
+.nav-links{
+	font-size: 34pt;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	/* letter-spacing: 2px; */
+
+}
+
+/* #logo{
+	width:;
+} */
+
+
+.footer{
+	position: absolute;
+	color: black;
+	clear: both;
+	right: 0;
+	bottom: 0;
+	padding-right: 10px;
+	height: 40px;
+}
+
+footer > p{
+	font-size: 40pt;
+}
