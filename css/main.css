@@ -39,7 +39,7 @@ img{
 	}
 } */
 
-/* @media (max-device-width: 768px) {
+ @media (max-device-width: 768px) {
 	html{
 		background: #111d12 url("../images/hs2.png") no-repeat center center fixed;
 		-webkit-background-size: cover;
@@ -48,7 +48,7 @@ img{
 		background-size: cover;
 	 }
 }
-*/
+
 
 /*Link Behavior*/
 a:link {
