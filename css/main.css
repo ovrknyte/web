@@ -27,27 +27,17 @@ img{
 }
 
 
-/* @media (max-device-width: 768px) {
+@media (max-device-width: 768px) {
 	html {
-	    background: url("") no-repeat center center fixed;
-	    -webkit-background-size: cover;
-	    -moz-background-size: cover;
-	    -o-background-size: cover;
-	    background-size: cover;
 	    height: 100%;
-	    overflow: hidden;
+	    overflow: scroll;
 	}
-} */
-
- @media (max-device-width: 768px) {
-	html{
-		background: #111d12 url("../images/hs2.png") no-repeat center center fixed;
-		-webkit-background-size: cover;
-		-moz-background-size: cover;
-		-o-background-size: cover;
-		background-size: cover;
-	 }
-}
+	.navigation{
+		width: 100%;
+		padding: 10px;
+		
+	}
+} 
 
 
 /*Link Behavior*/
