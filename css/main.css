@@ -30,7 +30,7 @@ img{
 @media (max-device-width: 768px) {
 	html {
 	    height: 100%;
-	    overflow: scroll;
+/* 	    overflow: scroll; */
 	}
 	.navigation{
 		width: 100%;
